@@ -1,0 +1,6 @@
+# Ignorar archivos de configuración de IDEs
+.idea/
+.DS_Store/
+
+# Ignorar archivos específicos del proyecto
+target/
